@@ -4,7 +4,7 @@
 
 <a href="https://www.landed.jobs/?utm_source=github&utm_medium=referral&utm_campaign=github-awesome-ai-job-search-tools&utm_content=repo-home"><picture><source media="(prefers-color-scheme: dark)" srcset="https://static.b100x.ai/github-repos/images/brand/landed-wordmark-dark.png"><img src="https://static.b100x.ai/email/landed-wordmark.png" alt="Landed" width="200"></picture></a>
 
-<img src="assets/banner.svg" alt="Awesome AI Job Search Tools" width="100%">
+<img src="https://static.b100x.ai/github-repos/images/awesome-ai-job-search-tools/banner.svg" alt="Awesome AI Job Search Tools" width="100%">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/landedjobs/awesome-ai-job-search-tools?style=social)](https://github.com/landedjobs/awesome-ai-job-search-tools)
